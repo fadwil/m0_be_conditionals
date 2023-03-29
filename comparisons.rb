@@ -61,20 +61,24 @@ puts "Is number_students less than or equal to 21?", number_students <= 21
 
 puts 4 < 9
 #YOU DO: Explain.
+puts "This line of code is checking to see if the integer 4 is less than the integer 9."
 
 books = 3
 puts 4 < books
 # YOU DO: Explain.
+puts "This line of code declares a variable named books and assigns it to the integer 3. It then checks to see if 4 is less than what was assigned to the variable books."
 
 friends = 6
 siblings = 2
 puts friends > siblings
 # YOU DO: Explain.
+puts "This line of code declares a variable named friends and assigns it to the integer 6. It declares a second variable named friends and assigns it to the integer 2. It then checks to see if friends is greater than siblings"
 
 attendees = 9
 meals = 8
 puts attendees != meals
 # YOU DO: Explain.
+puts " This line of code declares a variable named attendees and assigns it to the integer 9. It declares a second variable named meals and assigns it to the integer 8. It then checks to see if attendees is not equal to meals"
 
 
 #-------------------
